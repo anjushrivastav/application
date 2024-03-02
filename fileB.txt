@@ -1,4 +1,4 @@
 This is clsFile B
 making chages in file B
 
-make changes aGAIN
+make changes aGAIN add
